@@ -7,3 +7,8 @@ Creating a *fork* is _producing_ a personal [copy of someone] else's project. Fo
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
 F or some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+
+* possible to perform one or more of the following computation 
+	* average over spatial vertical dimension , 
+	* average over time , 
+	* average over spatial horizontal dimension 
