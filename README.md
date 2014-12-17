@@ -12,3 +12,5 @@ F or some more information on how to fork a repository, [check out our guide, "F
 	* average over spatial vertical dimension , 
 	* average over time , 
 	* average over spatial horizontal dimension 
+
+The **C**alculator f**O**r Marine Indices and Characteristic - COMIC - is a software
