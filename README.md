@@ -13,4 +13,4 @@ F or some more information on how to fork a repository, [check out our guide, "F
 	* average over time , 
 	* a verage over spatial horizontal dimension 
 
-The **C**alculator f**O**r Marine Indices and Characteristic - COMIC - is a software test [75,150] (parameter --oav)
+The **C**alculator f**O**r Marine Indices and Characteristic - COMIC - is a software test [75,150]  (parameter --oav)
